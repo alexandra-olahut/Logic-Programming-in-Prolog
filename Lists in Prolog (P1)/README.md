@@ -8,8 +8,8 @@ a. Write a predicate to remove all occurrences of a certain atom from a list.
 b. Define a predicate to produce a list of pairs (atom n) from an initial list of atoms. In this initial list atom has n occurrences. Eg.: numberatom([1, 2, 1, 2, 1, 3, 1], X) => X = [[1, 4], [2, 2], [3, 1]].
 
 3.  
-a. Define a predicate to remove from a list all repetitive elements.  
-Eg.: l=[1,2,1,4,1,3,4] => l=[2,3]) b. Remove all occurrence of a maximum value from a list on integer numbers.
+a. Define a predicate to remove from a list all repetitive elements. Eg.: l=[1,2,1,4,1,3,4] => l=[2,3])   
+b. Remove all occurrence of a maximum value from a list on integer numbers.
 
 4.  
 a. Write a predicate to determine the difference of two sets.  
